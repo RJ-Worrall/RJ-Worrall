@@ -2,13 +2,13 @@
 
 ## About Me 
 
-I am a **[Data Science/Data Analytics]** student with experience in **[R, Python, and Sas]**. My passion for data science and analytics comes from my love for using statistics and complex modeling in order to make informed decisions with real world implications.
+I am a Data Science/Data Analytics student with experience in R, Python, and Sas. My passion for data science and analytics comes from my love for using statistics and complex modeling in order to make informed decisions with real world implications.
 
--  Currently learning: **[SQL]**
--  Working on: **[current projects or side-projects]**
--  Languages: **[R, Python, SAS]**
--  How to reach me: **[rj2.worrall@gmail.com]** ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
--  Fun fact: **[I used to play professional esports, competing for Team Nemesis in Marvel Rivals.]**
+-  Currently learning: SQL
+-  Working on: current projects or side-projects
+-  Languages: R, Python, SAS
+-  How to reach me: rj2.worrall@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+-  Fun fact: I used to play professional esports, competing for Team Nemesis in Marvel Rivals.
 
 ## My Skills 
 
