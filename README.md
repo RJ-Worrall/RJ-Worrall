@@ -1,4 +1,4 @@
-# Hello, I'm [RJ Worrall]!
+# Hello, I'm RJ Worrall!
 
 ## About Me 
 
