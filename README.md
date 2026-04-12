@@ -18,11 +18,11 @@ I am a Data Science/Data Analytics student with experience in R, Python, and Sas
 
 ## Featured Projects 
 
-### [Project 1 Title](project_1_link)
+### [Renewable Energy Dashboard](https://li05s0-rj-worrall.shinyapps.io/FinalProject2/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+<img width="1913" height="907" alt="Screenshot 2026-04-12 181237" src="https://github.com/user-attachments/assets/f5691d01-4756-4bb7-bb4f-904928c9f050" />
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+This is an interactive dashboard displaying renewable energy statistics built with RShiny. This project demonstrates my ability to create informative and interactive data visualizations, as well as create multiple regression models. You can check out the repository here: (https://github.com/RJ-Worrall/Renewable-Energy-RShiny-Dashboard)
 
 ### [Project 2 Title](project_2_link)
 
@@ -32,7 +32,7 @@ I am a Data Science/Data Analytics student with experience in R, Python, and Sas
 
 ## Get in Touch 
 
-- **[https://www.linkedin.com/in/robert-worrall/]**
+- https://www.linkedin.com/in/robert-worrall/
 
 
 
