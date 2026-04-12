@@ -7,7 +7,7 @@ I am a **[Data Science/Data Analytics]** student with experience in **[R, Python
 -  Currently learning: **[SQL]**
 -  Working on: **[current projects or side-projects]**
 -  Languages: **[R, Python, SAS]**
--  How to reach me: **[rj2.worrall@gmail.com]** (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+-  How to reach me: **[rj2.worrall@gmail.com]** ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 -  Fun fact: **[I used to play professional esports, competing for Team Nemesis in Marvel Rivals.]**
 
 ## My Skills 
