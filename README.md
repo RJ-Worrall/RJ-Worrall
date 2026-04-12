@@ -24,11 +24,11 @@ I am a Data Science/Data Analytics student with experience in R, Python, and Sas
 
 This is an interactive dashboard displaying renewable energy statistics built with RShiny. This project demonstrates my ability to create informative and interactive data visualizations, as well as create multiple regression models. You can check out the repository here: (https://github.com/RJ-Worrall/Renewable-Energy-RShiny-Dashboard)
 
-### [Project 2 Title](project_2_link)
+### [SAS Baseball Data Analysis]
 
-![Project 2 Screenshot](project_2_screenshot_url)
+<img width="927" height="672" alt="image" src="https://github.com/user-attachments/assets/f6c8dc83-9fde-4899-a03a-0f8210324158" />
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+This project is an analysis of baseball statistics from 2008 to 2024. Users can specify a player and a year, and a SAS macro will return detailed statistics for that player in that year. This project showcases my skills at reading in data from complex sources, and formatting it into clean, organized datasets that can be used to conduct a wide variety of analyses. You can check out the repository here: (https://github.com/RJ-Worrall/SAS-Baseball-Data-Analysis)
 
 ## Get in Touch 
 
