@@ -5,7 +5,7 @@
 I am a Data Science/Data Analytics student with experience in R, Python, and Sas. My passion for data science and analytics comes from my love for using statistics and complex modeling in order to make informed decisions with real world implications.
 
 -  Currently learning: SQL
--  Working on: current projects or side-projects
+-  Working on: Training machine learning models to predict whether someone will lose their job to AI.
 -  Languages: R, Python, SAS
 -  How to reach me: rj2.worrall@gmail.com
 -  Fun fact: I used to play professional esports, competing for Team Nemesis in Marvel Rivals.
